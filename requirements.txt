@@ -2,13 +2,9 @@ streamlit==1.37.1
 arxiv
 python-dotenv
 
-# AutoGen (stable)
 pyautogen==0.2.25
 autogen-agentchat
 autogen-ext
 
-# OpenAI SDK (compatible)
 openai==1.40.3
-
-# Utils
 requests
